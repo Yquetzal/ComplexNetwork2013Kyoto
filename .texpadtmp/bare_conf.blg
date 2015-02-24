@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/remy/GitHub/paperCNKyoto/.texpadtmp/bare_conf.aux
+The style file: IEEEtran.bst
+I couldn't open database file bibliographie.bib.bib
+---line 56 of file /Users/remy/GitHub/paperCNKyoto/.texpadtmp/bare_conf.aux
+ : \bibdata{bibliographie.bib
+ :                           }
+I'm skipping whatever remains of this command
+I found no database files---while reading file /Users/remy/GitHub/paperCNKyoto/.texpadtmp/bare_conf.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--I didn't find a database entry for "howard2011opening"
+Warning--I didn't find a database entry for "bakshy2011everyone"
+Warning--I didn't find a database entry for "suh2010want"
+Warning--I didn't find a database entry for "krishnamurthy2008few"
+Warning--I didn't find a database entry for "kwak2010twitter"
+Warning--I didn't find a database entry for "cha2010measuring"
+Warning--I didn't find a database entry for "toriumi2013information"
+Warning--I didn't find a database entry for "boyd2010tweet"
+Warning--I didn't find a database entry for "clauset2009power"
+Warning--I didn't find a database entry for "yang2010understanding"
+Warning--I didn't find a database entry for "yang2010predicting"
+Warning--I didn't find a database entry for "sakaki2010earthquake"
+Warning--I didn't find a database entry for "earle2010omg"
+Warning--I didn't find a database entry for "mendoza2010twitter"
+Warning--I didn't find a database entry for "li2010twitter"
+Warning--I didn't find a database entry for "tinati2012identifying"
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 0 entries,
+            4039 wiz_defined-function locations,
+            826 strings with 7591 characters,
+and the built_in function-call counts, 103 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 19
+:= -- 26
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 3
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 23
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 22
+(There were 2 error messages)
